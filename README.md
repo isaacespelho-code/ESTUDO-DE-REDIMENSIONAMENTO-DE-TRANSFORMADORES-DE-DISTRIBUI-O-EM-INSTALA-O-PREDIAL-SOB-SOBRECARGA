@@ -24,9 +24,9 @@ Análise técnica e justificativa para a escolha da nova capacidade transformado
 Proposição de novos parâmetros operacionais para garantir a confiabilidade do sistema.
 
 #  Instituição
-Centro Universitário Hermínio Ometto – Araras/SP
-Curso: Engenharia Elétrica
-Período de entrega: Junho de 2025
+- Centro Universitário Hermínio Ometto – Araras/SP
+- Curso: Engenharia Elétrica
+- Período de entrega: Junho de 2025
 
 #  Restrições de Uso
 Este trabalho tem finalidade exclusivamente acadêmica e didática.
@@ -35,7 +35,7 @@ A aplicação dos cálculos, dimensionamentos ou simulações em sistemas reais 
 Para solicitações externas ou dúvidas sobre o uso do material, entre em contato.
 
 #  Contato
-Autor: Isaac Zulin Memari Espelho
-Email: espelho@alunos.fho.edu.br
-Orientador: Prof. Dr. Daniel Augusto Pagi Ferreira
-Email: danielferreira@fho.edu.br
+- Autor: Isaac Zulin Memari Espelho
+- Email: espelho@alunos.fho.edu.br
+- Orientador: Prof. Dr. Daniel Augusto Pagi Ferreira
+- Email: danielferreira@fho.edu.br
