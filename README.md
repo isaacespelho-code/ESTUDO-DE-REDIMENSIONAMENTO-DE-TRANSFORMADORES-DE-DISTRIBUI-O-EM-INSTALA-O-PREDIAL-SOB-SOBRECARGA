@@ -26,7 +26,6 @@ Proposição de novos parâmetros operacionais para garantir a confiabilidade do
 #  Instituição
 - Centro Universitário Hermínio Ometto – Araras/SP
 - Curso: Engenharia Elétrica
-- Período de entrega: Junho de 2025
 
 #  Restrições de Uso
 Este trabalho tem finalidade exclusivamente acadêmica e didática.
