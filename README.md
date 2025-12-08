@@ -1,4 +1,4 @@
-#  ESTUDO-DE-REDIMENSIONAMENTO-DE-TRANSFORMADORES-DE-DISTRIBUI-O-EM-INSTALA-O-PREDIAL-SOB-SOBRECARGA
+#  ESTUDO DE REDIMENSIONAMENTO DE TRANSFORMADORES DE DISTRIBUIÇÃO EM INSTALAÇÃO PREDIAL SOB SOBRECARGA
 Trabalho de Conclusão de Curso
 Este repositório reúne o estudo técnico sobre os impactos da sobrecarga em transformadores de potência em um sistema de distribuição elétrica de um condomínio residencial composto por edifícios de 10 pavimentos, localizado no interior do Estado de São Paulo. A investigação foi motivada pelo subdimensionamento identificado no cálculo de demanda, que levou os transformadores existentes a operarem acima de sua capacidade nominal.
 O trabalho analisa a coerência entre os cálculos de demanda das torres e as especificações dos transformadores instalados, utilizando normas nacionais, internacionais e diretrizes da concessionária para embasar a avaliação. Os resultados apontam que os transformadores originais operavam em sobrecarga crítica, sujeitos a superaquecimento e aceleração do processo de envelhecimento térmico do isolamento.
