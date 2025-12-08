@@ -13,12 +13,12 @@ Com base nisso, o estudo propõe o redimensionamento dos transformadores, garant
 #  Conteúdo Técnico
 O estudo aborda todas as etapas de avaliação e cálculo do sistema elétrico, incluindo:
 
-- Análises de Demanda e Sobrecarga
+- Análises de Demanda e Sobrecarga:
 Levantamento das cargas instaladas e demandas por pavimento e áreas comuns;
 Aplicação da ND-26 (concessionária) para cálculo de demanda por torre;
 Identificação do regime de sobrecarga do transformador existente;
 
-- Proposta de Redimensionamento
+- Proposta de Redimensionamento:
 Definição da nova potência nominal do transformador;
 Análise técnica e justificativa para a escolha da nova capacidade transformadora;
 Proposição de novos parâmetros operacionais para garantir a confiabilidade do sistema.
